@@ -18,12 +18,13 @@
   Sample Data:
   Global Beverage Corporation Exchange
   
-StockSymbol 	Type 	    Last Dividend 	Fixed Dividend 	Par Value
-  TEA        	Common      	0                         		100
-  POP 	      Common 	      8                         		100
-  ALE 	      Common 	      23 		                        60
-  GIN 	      Preferred   	8           	  2%           	100
-  JOE 	      Common      	13 		                        250
+  Stock Symbol  |    Type    | Last Dividend | Fixed Dividend | Par Value
+  ------------- | ---------- | ------------: | :------------: | --------: 
+     TEA        | Common     |      0        |                | 100
+     POP        | Common     |      8        |                | 100
+     ALE        | Common     |      23       |                | 60
+     GIN        | Preferred  |      8        |     2%         | 100
+     JOE        | Common     |      13       |                | 250
 
 ** All number values has given in pennies
     
